@@ -10,12 +10,12 @@ displayed along the stack implementation
 setup/run your program if needed. Document the code, processes, roles, and
 results in this file.
 
-*Requirement: Your submission must have Three (3) files: your design file, your program
+* Requirement: Your submission must have Three (3) files: your design file, your program
 file, and a documentation file. The Design file and Documentation file
 should be submitted in PDF format. Upload it in canvas (either the zip file or
 GitHub link)
 
-*Requirement: Remember, the journey is as important as the destination. All the best!
+* Requirement: Remember, the journey is as important as the destination. All the best!
 
 ## Team: Rilijin G Carrillo, Francisco Godoy, Anthony Seng
 
